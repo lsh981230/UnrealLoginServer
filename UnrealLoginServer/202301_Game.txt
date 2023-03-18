@@ -1,0 +1,440 @@
+[ERROR] [1/26 17:26:25 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:26:25 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:33:58 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:33:58 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:35:7 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:35:7 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:38:57 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:38:57 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:45:18 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:45:18 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:48:5 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:48:5 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:48:43 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:48:43 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:58:40 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 17:58:40 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 18:0:21 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 18:0:21 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 18:1:41 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 18:1:41 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 18:5:20 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 18:5:20 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 19:8:40 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 19:8:40 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 19:23:30 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 19:23:30 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 19:26:5 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 19:26:5 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/26 19:33:28 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/26 19:33:28 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 22:45:29 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 22:45:29 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 22:49:49 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 22:49:49 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 22:58:3 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 22:58:3 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 22:59:44 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 22:59:44 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:35:58 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:35:58 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:40:39 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:40:39 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:47:0 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:47:0 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:47:51 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:47:51 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:48:23 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:48:23 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:49:51 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/28 23:49:51 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:9:22 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:9:22 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:12:50 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:12:50 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:14:7 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:14:7 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:49:21 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:49:21 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:52:30 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:52:30 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:53:36 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:53:36 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:56:30 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 0:56:30 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 1:1:56 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 1:1:56 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 1:6:5 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 1:6:5 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 1:15:51 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 1:15:51 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 1:18:27 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 1:18:27 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 20:6:36 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 20:6:36 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 20:44:37 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 20:44:37 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 20:44:48 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 20:44:48 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 21:6:53 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 21:6:53 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 21:18:45 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 21:18:45 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 23:32:28 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 23:32:28 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/29 23:34:57 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/29 23:34:57 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/30 14:31:32 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/30 14:31:32 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/30 15:8:29 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/30 15:8:29 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/30 22:54:25 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/30 22:54:26 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/30 22:59:43 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/30 22:59:43 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/30 23:6:52 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/30 23:6:52 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/30 23:19:16 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/30 23:19:16 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/30 23:29:39 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/30 23:29:39 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/30 23:44:31 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/30 23:44:31 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/31 1:39:16 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/31 1:39:16 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/31 1:43:55 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/31 1:43:55 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/31 17:30:8 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/31 17:30:8 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+
+[ERROR] [1/31 22:5:27 / 1] PDH AddCounter Failed, Private Bytes
+
+---------------------------------------------------------
+
+[ERROR] [1/31 22:5:27 / 2] PDH AddCounter Failed, Network Adapter
+
+---------------------------------------------------------
+

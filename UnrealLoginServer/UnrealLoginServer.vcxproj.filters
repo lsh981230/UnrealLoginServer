@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\DB">
+      <UniqueIdentifier>{985a2451-7e89-4a2b-8a97-a8f9401c3759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Network">
+      <UniqueIdentifier>{e3eb2e61-5a68-4449-9936-3e8a2db9fbe9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Memory">
+      <UniqueIdentifier>{5d778453-fafb-42d3-9ab2-fb9f02e47d2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Optional">
+      <UniqueIdentifier>{10f7f184-c47a-41b2-8327-7990ccf8c002}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CParser.h">
+      <Filter>소스 파일\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CPUUsage.h">
+      <Filter>소스 파일\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MyPDH.h">
+      <Filter>소스 파일\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Profiler.h">
+      <Filter>소스 파일\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CCrashDump.h">
+      <Filter>소스 파일\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CLog.h">
+      <Filter>소스 파일\Optional</Filter>
+    </ClInclude>
+    <ClInclude Include="..\StructInfo.h">
+      <Filter>소스 파일\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CNetworkServer.h">
+      <Filter>소스 파일\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CommonProtocol.h">
+      <Filter>소스 파일\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MyOverlapped.h">
+      <Filter>소스 파일\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Tls_DBConnector.h">
+      <Filter>소스 파일\DB</Filter>
+    </ClInclude>
+    <ClInclude Include="..\TLS_RedisConnector.h">
+      <Filter>소스 파일\DB</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LockFreeFreeList.h">
+      <Filter>소스 파일\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LockFreeQueue.h">
+      <Filter>소스 파일\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LockFreeStack.h">
+      <Filter>소스 파일\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\MemoryPool_TLS.h">
+      <Filter>소스 파일\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CRingBuffer.h">
+      <Filter>소스 파일\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CSerializeBuffer.h">
+      <Filter>소스 파일\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\LoginServer.h">
+      <Filter>소스 파일\Network</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\CPUUsage.cpp">
+      <Filter>소스 파일\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="..\MyPDH.cpp">
+      <Filter>소스 파일\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CCrashDump.cpp">
+      <Filter>소스 파일\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CLog.cpp">
+      <Filter>소스 파일\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CParser.cpp">
+      <Filter>소스 파일\Optional</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CNetworkServer.cpp">
+      <Filter>소스 파일\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Tls_DBConnector.cpp">
+      <Filter>소스 파일\DB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\TLS_RedisConnector.cpp">
+      <Filter>소스 파일\DB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CRingBuffer.cpp">
+      <Filter>소스 파일\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CSerializeBuffer.cpp">
+      <Filter>소스 파일\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\LoginServer.cpp">
+      <Filter>소스 파일\Network</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\_Setting.txt">
+      <Filter>소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
