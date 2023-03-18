@@ -68,19 +68,3 @@ enum en_PACKET_TYPE
 
 };
 
-
-
-enum en_PACKET_SC_RES_FAILURE_REASON
-{
-	dfLOGIN_RES_FAILURE_NONE = 0,		// 미인증상태
-	dfLOGIN_RES_FAILURE_GAME,			// 게임중
-	dfLOGIN_RES_FAILURE_ID_PW_MISMATCH,	// ID/PW가 일치하지 않음
-};
-
-
-enum en_PACKET_CS_GAME_RES_LOGIN
-{
-	dfGAME_LOGIN_FAIL = 0,			// 세션키 오류 또는 Account 데이블상의 오류
-	dfGAME_LOGIN_SUCCESS,			// 성공
-	dfGAME_LOGIN_NONE_OF_TOKEN,		// 로그인 인증 토큰 부재
-};
